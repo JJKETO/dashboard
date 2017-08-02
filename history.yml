@@ -1,0 +1,613 @@
+---
+sodexo: "data: {\"hrows\":[{\"cols\":[{\"value\":\"Ruoka\"},{\"value\":\"Kategoria\"},{\"value\":\"Hinta\"},{\"value\":\"Extra\"}]}],\"rows\":[{\"cols\":[{\"value\":\"Broilerin
+  file pekoni-tomaattikastikkeella\"},{\"value\":\"Grill\"},{\"value\":\"10,00\"},{\"value\":\"G,
+  M\"}]},{\"cols\":[{\"value\":\"Pinaattikeitto, sis. maitotuotteita, selleriä\"},{\"value\":\"Salad
+  garden & Soup\"},{\"value\":\"7,20\"},{\"value\":\"G, L\"}]},{\"cols\":[{\"value\":\"Savulohimousse-
+  L, G tai Juusto-salaatti G\"},{\"value\":\"Salad garden & Soup\"},{\"value\":\"8,20\"},{\"value\":\"\"}]},{\"cols\":[{\"value\":\"Jäätelöpuikko\"},{\"value\":\"Sweet\"},{\"value\":\"\"},{\"value\":\"G,
+  VL\"}]}],\"id\":\"sodexo\",\"updatedAt\":1501674366}\n\n"
+moodOfTheDay: "data: {\"moodvalue\":3,\"id\":\"moodOfTheDay\",\"updatedAt\":1501674366}\n\n"
+twitter_mentions: "data: {\"comments\":[{\"name\":\"親孝行垢\",\"body\":\"RT @ipfconline1:
+  Why #DataScience + #CyberSecurity? Study finds you are 2.25x more likely to detect
+  a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/874832415079792640/d5HODYos_normal.jpg\"},{\"name\":\"親孝行垢\",\"body\":\"RT
+  @KirkDBorne: Demystifying #DataLake Architecture: https://t.co/LSoFdAIy6d #abdsc
+  #BigData #DataScience #Analytics https://t.co/wl4v5FWzPd\",\"avatar\":\"https://pbs.twimg.com/profile_images/874832415079792640/d5HODYos_normal.jpg\"},{\"name\":\"WioNavi\",\"body\":\"RT
+  @xfxie: #DataMining, #BigData #Analytics in #Healthcare: What’s the Difference?
+  https://t.co/lgcUonxLwl #DataAnalytics #DataScience #Hea…\",\"avatar\":\"https://pbs.twimg.com/profile_images/756157098627506177/Y74zY208_normal.jpg\"},{\"name\":\"Deep_In_Depth\",\"body\":\"5
+  Banking Sectors Being Redefined by Big Data https://t.co/22D0mpbKw6 #DataScience
+  #BigData #Banking https://t.co/idQZcy24sZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/861866967493431296/PIjaSD4g_normal.jpg\"},{\"name\":\"jamshaidsohail\",\"body\":\"RT
+  @DD_NaNa_: Data Structure and Algorithms Analysis - Job Interview https://t.co/x40n7Hu1SW
+  #Algorithms #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/800356589395910656/-QCzfObm_normal.jpg\"},{\"name\":\"親孝行垢\",\"body\":\"RT
+  @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis for #Business\\nhttps://t.co/XsMuuyUhxD
+  \ @DataScienceCtrl\\n#BigData #DataScience #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/874832415079792640/d5HODYos_normal.jpg\"},{\"name\":\"WioData\",\"body\":\"RT
+  @iHarishPal: Top 5 Concerns of #BigData #Hadoop Implementation \U0001F310 https://t.co/k5c3hpdLTn
+  #DataScience #MachineLearning #Analytics #SQL #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/775072150973718528/n7RRMZFW_normal.jpg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @KirkDBorne: #DataScience Simplified - Principles and Process:
+  https://t.co/i18KeskUjJ #abdsc #BigData #MachineLearning https://t.co/gmN…\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"親孝行垢\",\"body\":\"RT
+  @KirkDBorne: #DataScience Simplified - Principles and Process: https://t.co/i18KeskUjJ
+  #abdsc #BigData #MachineLearning https://t.co/gmN…\",\"avatar\":\"https://pbs.twimg.com/profile_images/874832415079792640/d5HODYos_normal.jpg\"},{\"name\":\"THEMBALETHU
+  NDLOVU\",\"body\":\"RT @Ronald_vanLoon: BMW’s New Motorcycle Concept Is So Smart
+  You Won’t Need a Helmet | #DataScience #Artificialintelligence #RT https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/846335701104971776/5SDERRDR_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @DeborahTannon: #DataScience — Articles like yours always
+  made me motivated to work on something unique. Well done Yahya! : https://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Apurva
+  Khandelwal\",\"body\":\"RT @Rbloggers: ggplot2 – Easy way to mix multiple graphs
+  on the same page https://t.co/WbeK0Eg8C1 #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/795314833398894592/uIeKuFVB_normal.jpg\"},{\"name\":\"Claire\",\"body\":\"RT
+  @Deep_In_Depth: Best Practices for Feature Engineering https://t.co/q1WW6sbSiV #MachineLearning
+  \ #DataScience #Analytics #DataMining #Fe…\",\"avatar\":\"https://pbs.twimg.com/profile_images/723931005308928000/ECDFQABc_normal.jpg\"},{\"name\":\"Deep_In_Depth\",\"body\":\"Best
+  Practices for Feature Engineering https://t.co/q1WW6sbSiV #MachineLearning  #DataScience
+  #Analytics… https://t.co/uxBZSJqiPa\",\"avatar\":\"https://pbs.twimg.com/profile_images/861866967493431296/PIjaSD4g_normal.jpg\"},{\"name\":\"Deborah
+  Tannon\",\"body\":\"#DataScience — Articles like yours always made me motivated
+  to work on something unique. Well done Yahya! : https://t.co/unkM9rZYO6\",\"avatar\":\"https://pbs.twimg.com/profile_images/830556952329596928/Ph457cbQ_normal.jpg\"},{\"name\":\"Deborah
+  Tannon\",\"body\":\"#DataScience — KMeans Clustering for Classification : https://t.co/MpxqTLqNFp\",\"avatar\":\"https://pbs.twimg.com/profile_images/830556952329596928/Ph457cbQ_normal.jpg\"},{\"name\":\"Claire\",\"body\":\"RT
+  @marcusborba: Top Recent Research Papers on #AI #DeepLearning #MachineLearning #DataScience
+  via @MikeTamir https://t.co/K8FSm0wk2u https…\",\"avatar\":\"https://pbs.twimg.com/profile_images/723931005308928000/ECDFQABc_normal.jpg\"},{\"name\":\"Mark
+  Lynd\",\"body\":\"RT @marcusborba: Top Recent Research Papers on #AI #DeepLearning
+  #MachineLearning #DataScience via @MikeTamir https://t.co/K8FSm0wk2u https…\",\"avatar\":\"https://pbs.twimg.com/profile_images/318232148/Picture_8_normal.png\"},{\"name\":\"MindAfterMath\",\"body\":\"The
+  Breadth-First-Search Algorithm https://t.co/r1fo4uPWKR #compsci  #datascience #math
+  #stem #mathchat\",\"avatar\":\"https://pbs.twimg.com/profile_images/1672275132/black_math_guy_normal.gif\"},{\"name\":\"hendro
+  subagyo\",\"body\":\"RT @m_learningnews: How to use ElasticSearch for Natural Language
+  Processing and Text Mining — Part 2 https://t.co/7u7xmrDZ8D #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/680818527410851840/pAKrg4h0_normal.jpg\"},{\"name\":\"Discrete
+  Science\",\"body\":\"RT @ahmedjr_16: 11 #BigData Courses To Become Top #DataScientist\\n\\nhttps://t.co/yClYWc2MfC\\n\\n#smallbusiness
+  #DataScience #MachineLearning #ML…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879940020546699265/0freKU9d_normal.jpg\"},{\"name\":\"Claire\",\"body\":\"RT
+  @Deep_In_Depth: Using AI to Break Detection Models https://t.co/NI6HDTt7hn #MachineLearning
+  #AI #DataScience #Agents https://t.co/UIPMXu…\",\"avatar\":\"https://pbs.twimg.com/profile_images/723931005308928000/ECDFQABc_normal.jpg\"},{\"name\":\"Deep_In_Depth\",\"body\":\"Using
+  AI to Break Detection Models https://t.co/NI6HDTt7hn #MachineLearning #AI #DataScience
+  #Agents https://t.co/UIPMXuAUTF\",\"avatar\":\"https://pbs.twimg.com/profile_images/861866967493431296/PIjaSD4g_normal.jpg\"},{\"name\":\"朧月\",\"body\":\"RT
+  @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis for #Business\\nhttps://t.co/XsMuuyUhxD
+  \ @DataScienceCtrl\\n#BigData #DataScience #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/884187445079687168/9tFOvzuz_normal.jpg\"},{\"name\":\"Jerome
+  GUYOT\",\"body\":\"RT @Ronald_vanLoon: Top Algorithms and Methods Used by Data Scientists
+  | #DataScience #DataScientist #RT https://t.co/5jqwusAIJX https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/728581729871638529/fEAzzke9_normal.jpg\"},{\"name\":\"Claire\",\"body\":\"RT
+  @JimHarris: WOW! More Data Created In Last 2 Yrs Than ALL Human History Combined!
+  Why #Analytics &amp; #DataScience = Critical. #BigData #AI…\",\"avatar\":\"https://pbs.twimg.com/profile_images/723931005308928000/ECDFQABc_normal.jpg\"},{\"name\":\"Boris
+  Nell\",\"body\":\"RT @JimHarris: WOW! More Data Created In Last 2 Yrs Than ALL Human
+  History Combined! Why #Analytics &amp; #DataScience = Critical. #BigData #AI…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3469750154/d4479cabd4be0bf90ce18908b00e7f1d_normal.jpeg\"},{\"name\":\"Deborah
+  Tannon\",\"body\":\"#DataScience —15 Great Articles About Decision Trees : https://t.co/KDSX6Ubv8Y\",\"avatar\":\"https://pbs.twimg.com/profile_images/830556952329596928/Ph457cbQ_normal.jpg\"},{\"name\":\"Nex
+  Mobility\",\"body\":\"RT @ahmedjr_16: 11 #BigData Courses To Become Top #DataScientist\\n\\nhttps://t.co/yClYWc2MfC\\n\\n#smallbusiness
+  #DataScience #MachineLearning #ML…\",\"avatar\":\"https://pbs.twimg.com/profile_images/621615009672486912/Ufm39h-3_normal.png\"},{\"name\":\"خير
+  الدين الأفيوني\",\"body\":\"RT @Rbloggers: Five kinds of weather you’ll meet in
+  America https://t.co/u2y2iKkU1D #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/892615617802629121/aXEnGB5__normal.jpg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @onlytechtweets: Ten Simple Rules for Effective Statistical
+  Practice https://t.co/49pamMSi9g https://t.co/eg7bRJT0Ke\\n#datascience #Machi…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Fafa\",\"body\":\"RT
+  @Rbloggers: Five kinds of weather you’ll meet in America https://t.co/u2y2iKkU1D
+  #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/731524337853825025/lhnwVsYX_normal.jpg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @ahmedjr_16: 11 #BigData Courses To Become Top #DataScientist\\n\\nhttps://t.co/yClYWc2MfC\\n\\n#smallbusiness
+  #DataScience #MachineLearning #ML…\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"IT
+  Knowingness\",\"body\":\"RT @ahmedjr_16: 11 #BigData Courses To Become Top #DataScientist\\n\\nhttps://t.co/yClYWc2MfC\\n\\n#smallbusiness
+  #DataScience #MachineLearning #ML…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1164716874/favicon-triada-azul_normal.png\"},{\"name\":\"Yves
+  Mulkers\",\"body\":\"RT @ahmedjr_16: 11 #BigData Courses To Become Top #DataScientist\\n\\nhttps://t.co/yClYWc2MfC\\n\\n#smallbusiness
+  #DataScience #MachineLearning #ML…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1834305939/LinkedIn_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @KirkDBorne: Amazing story! She thought she was Irish—until
+  a DNA test + some #BigData &amp; #DataScience opened 100-yr-old mystery: https:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Claire\",\"body\":\"RT
+  @dj_shaily: 10 Free #MustReads: #MachineLearning+#Data #Science\\nhttps://t.co/yxBi9XEguc\\n#smarttech
+  #ML #DataScience #BigData… https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/723931005308928000/ECDFQABc_normal.jpg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @dj_shaily: 10 Free #MustReads: #MachineLearning+#Data
+  #Science\\nhttps://t.co/yxBi9XEguc\\n#smarttech #ML #DataScience #BigData… https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Scientific
+  Method\",\"body\":\"RT @KirkDBorne: Amazing story! She thought she was Irish—until
+  a DNA test + some #BigData &amp; #DataScience opened 100-yr-old mystery: https:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/880836739023196160/wPunIT5k_normal.jpg\"},{\"name\":\"Wen\",\"body\":\"Introduction
+  to Machine Learning with Python: A Guide for Data Scientists #DataScience https://t.co/8ZZt15VVAb\",\"avatar\":\"https://pbs.twimg.com/profile_images/863271752327024640/d5zrm_R5_normal.jpg\"},{\"name\":\"Claire\",\"body\":\"RT
+  @onlytechtweets: Ten Simple Rules for Effective Statistical Practice https://t.co/49pamMSi9g
+  https://t.co/eg7bRJT0Ke\\n#datascience #Machi…\",\"avatar\":\"https://pbs.twimg.com/profile_images/723931005308928000/ECDFQABc_normal.jpg\"},{\"name\":\"tech_news\",\"body\":\"Ten
+  Simple Rules for Effective Statistical Practice https://t.co/49pamMSi9g https://t.co/eg7bRJT0Ke\\n#datascience
+  #MachineLearning\",\"avatar\":\"https://pbs.twimg.com/profile_images/571093858257408001/KwS9ImzK_normal.png\"},{\"name\":\"Mubdi'Chud'Choudhury\",\"body\":\"RT
+  @siliconlikes: .@google Data Center #datascience #data #infrastructure https://t.co/l2DRrtrS5O
+  via @youtube #siliconvalleyhbo #siliconva…\",\"avatar\":\"https://pbs.twimg.com/profile_images/746995007501045760/P3y66Hux_normal.jpg\"},{\"name\":\"Shailendra
+  Kumar\",\"body\":\"10 Free #MustReads: #MachineLearning+#Data #Science\\nhttps://t.co/yxBi9XEguc\\n#smarttech
+  #ML #DataScience #BigData… https://t.co/gnoNFiX4s2\",\"avatar\":\"https://pbs.twimg.com/profile_images/1738758441/IMG_0812a_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @kdnuggets: NEW: 6 Hot Career Prospects in #DataScience
+  Industry Today #KDN https://t.co/4DHT3g1BSD\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Machine
+  Learning Bot\",\"body\":\"Surprising Mind Blowing Facts And Figures Of Big Data:
+  Big Data-statistics (big  here  https://t.co/ouyDANovZf #datascience @machinelearnbot\",\"avatar\":\"https://pbs.twimg.com/profile_images/688735459892195329/v8sHaWSG_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @kdnuggets: NEW: 6 Hot Career Prospects in #DataScience Industry
+  Today #KDN https://t.co/4DHT3g1BSD\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"StartUpNews\",\"body\":\"RT
+  @KirkDBorne: Demystifying #DataLake Architecture: https://t.co/LSoFdAIy6d #abdsc
+  #BigData #DataScience #Analytics https://t.co/wl4v5FWzPd\",\"avatar\":\"https://pbs.twimg.com/profile_images/732939935410491392/AwPhbtC3_normal.jpg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @KirkDBorne: Demystifying #DataLake Architecture: https://t.co/LSoFdAIy6d
+  #abdsc #BigData #DataScience #Analytics https://t.co/wl4v5FWzPd\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"Yann
+  Barraud\",\"body\":\"RT @KirkDBorne: Demystifying #DataLake Architecture: https://t.co/LSoFdAIy6d
+  #abdsc #BigData #DataScience #Analytics https://t.co/wl4v5FWzPd\",\"avatar\":\"https://pbs.twimg.com/profile_images/846299520124235777/KdUhQSJH_normal.jpg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @debashis_dutta: RT @KirkDBorne \\nTop 15 #Python Libraries
+  for #DataScience in 2017: https://t.co/xOiyo1j371 #BigData #MachineLearning #D…\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @JacBurns_Comext: \U0001F51D9 Ways to Build Confidence in
+  #BigData\\n#Analytics #Success #Blockchain #AI  #DataScience #Entrepreneur #IoT
+  #CIO #sta…\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"Gregory
+  Oluoch\",\"body\":\"RT @JacBurns_Comext: \U0001F51D9 Ways to Build Confidence in
+  #BigData\\n#Analytics #Success #Blockchain #AI  #DataScience #Entrepreneur #IoT
+  #CIO #sta…\",\"avatar\":\"https://pbs.twimg.com/profile_images/892105776457764864/C1Gvj7Yl_normal.jpg\"},{\"name\":\"Math
+  Theories\",\"body\":\"RT @Ronald_vanLoon: Data Science\\\" OR #datascience via NodeXL
+  @ronald_vanloon @alevergara78 @kirkdborne @datasciencectrl @yarmolukdan | http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879941575480152066/U-i0jWkU_normal.jpg\"},{\"name\":\"Debashis
+  Dutta\",\"body\":\"RT @techjunkiejh: How-to: Use the New HDFS Intra-DataNode Disk
+  Balancer in Apache Hadoop  https://t.co/HQzNzVG8r7 #bigdata #datascience #ha…\",\"avatar\":\"https://pbs.twimg.com/profile_images/839152724818161664/45uZ019-_normal.jpg\"},{\"name\":\"SheffieldR
+  Group\",\"body\":\"RT @Rbloggers: Building a website with pkgdown: a short guide
+  https://t.co/1RsWODS0Vq #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/526695509356838912/eSvsHAD7_normal.jpeg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @techjunkiejh: How-to: Use the New HDFS Intra-DataNode Disk
+  Balancer in Apache Hadoop  https://t.co/HQzNzVG8r7 #bigdata #datascience #ha…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"BigBoards\",\"body\":\"RT
+  @techjunkiejh: How-to: Use the New HDFS Intra-DataNode Disk Balancer in Apache Hadoop
+  \ https://t.co/HQzNzVG8r7 #bigdata #datascience #ha…\",\"avatar\":\"https://pbs.twimg.com/profile_images/489375332743409664/P4sYDY1__normal.png\"},{\"name\":\"THEMBALETHU
+  NDLOVU\",\"body\":\"RT @Ronald_vanLoon: Top Algorithms and Methods Used by Data
+  Scientists | #DataScience #DataScientist #RT https://t.co/5jqwusAIJX https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/846335701104971776/5SDERRDR_normal.jpg\"},{\"name\":\"Big
+  Data Batman\",\"body\":\"11 #Batman Courses To Become Top #DataScientist https://t.co/TT3RVwzx4T
+  #smallbusiness #DataScience… https://t.co/3940V2ieGy\",\"avatar\":\"https://pbs.twimg.com/profile_images/860595028896382976/r4FkYjgH_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @Rbloggers: Building a website with pkgdown: a short guide
+  https://t.co/1RsWODS0Vq #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Sudarshan
+  A. Shetty\",\"body\":\"RT @Rbloggers: Building a website with pkgdown: a short guide
+  https://t.co/1RsWODS0Vq #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/834153530478960640/Y_OnmY9R_normal.jpg\"},{\"name\":\"Debashis
+  Dutta\",\"body\":\"RT @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis
+  for #Business\\nhttps://t.co/XsMuuyUhxD  @DataScienceCtrl\\n#BigData #DataScience
+  #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/839152724818161664/45uZ019-_normal.jpg\"},{\"name\":\"pmedina\",\"body\":\"RT
+  @techlazy_msft: What is #DeepLearning?| #MachineLearning #AI #DataScience #innovation
+  #ML #Robotics #NeuralNetworks #DevOps… https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/606973900795330561/aJlG7rs9_normal.jpg\"},{\"name\":\"Debashis
+  Dutta\",\"body\":\"RT @Ronald_vanLoon: BMW’s New Motorcycle Concept Is So Smart
+  You Won’t Need a Helmet | #DataScience #Artificialintelligence #RT https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/839152724818161664/45uZ019-_normal.jpg\"},{\"name\":\"FreshPatents\",\"body\":\"RT
+  @gp_pulipaka: Machine Learning Translation and the Google Translate Algorithm. #BigData
+  #MachineLearning #DataScience #AI \\nhttps://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/471884057635069952/1l1z4m29_normal.png\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @Ronald_vanLoon: BMW’s New Motorcycle Concept Is So Smart
+  You Won’t Need a Helmet | #DataScience #Artificialintelligence #RT https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis
+  for #Business\\nhttps://t.co/XsMuuyUhxD  @DataScienceCtrl\\n#BigData #DataScience
+  #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"Jürg
+  Unger\",\"body\":\"RT @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis
+  for #Business\\nhttps://t.co/XsMuuyUhxD  @DataScienceCtrl\\n#BigData #DataScience
+  #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/866328633996193792/ba7jRuJm_normal.jpg\"},{\"name\":\"Donato
+  Pasqualicchio\",\"body\":\"What is #DeepLearning?| #MachineLearning #AI #DataScience
+  #innovation #ML #Robotics #NeuralNetworks #DevOps… https://t.co/yhG21TUCqo\",\"avatar\":\"https://pbs.twimg.com/profile_images/716220444651753472/q6PwsQ8V_normal.jpg\"},{\"name\":\"sudheer
+  kumar\",\"body\":\"RT @Vecto_Mobile: Rise of the #Chatbots [#Infographic]\\n#AI
+  #DeepLearning #Startup #IoT #BigData #Analytics #DataScience #Fintech #Insurtech…\",\"avatar\":\"https://pbs.twimg.com/profile_images/809694592924692480/0GzGIRqA_normal.jpg\"},{\"name\":\"I
+  am a DataScientist\",\"body\":\"RT @IBMbigdata: Immerse yourself in the world of
+  #datascience at IBM #Datapalooza : #RockYourData https://t.co/UUximGPjoY\",\"avatar\":\"https://pbs.twimg.com/profile_images/589532033723957248/lO5EOsTh_normal.jpg\"},{\"name\":\"Math
+  Theories\",\"body\":\"RT @digityserbe: What a crowd for the #datascience jobfair
+  from @DataScienceBe @di_academy_com https://t.co/mZpnfR9mbd\",\"avatar\":\"https://pbs.twimg.com/profile_images/879941575480152066/U-i0jWkU_normal.jpg\"},{\"name\":\"Gopi
+  Nath\",\"body\":\"RT @Ronald_vanLoon: BMW’s New Motorcycle Concept Is So Smart You
+  Won’t Need a Helmet | #DataScience #Artificialintelligence #RT https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889318069872590854/Jb2KGNvk_normal.jpg\"},{\"name\":\"Flow
+  J. Simpson\",\"body\":\"RT @Vecto_Mobile: 10 Fundamental Terms for #DataScience
+  &amp; #MachineLearning #ML [#Infographic]\\n#AI #BigData #Analytics #IoT\\n#defstar5
+  #makey…\",\"avatar\":\"https://pbs.twimg.com/profile_images/804529896534003712/nT-0yYVq_normal.jpg\"},{\"name\":\"Gaurav
+  Maheshwari\",\"body\":\"RT @DataScienceCtrl: 5 #datascience books you should read
+  in 2017 https://t.co/QwDEVRbKRE https://t.co/9GPAuIgsd7\",\"avatar\":\"https://pbs.twimg.com/profile_images/479149239868456960/Uel6o0sB_normal.jpeg\"},{\"name\":\"Strong
+  Mama\",\"body\":\"4 reasons why learning data science is an absolute must https://t.co/sJeSmmZPAJ
+  #datascience #education https://t.co/ErrYFRCgxS\",\"avatar\":\"https://pbs.twimg.com/profile_images/748969239042625536/V1FJces7_normal.jpg\"},{\"name\":\"Fernando
+  Cuenca\",\"body\":\"RT @Vecto_Mobile: What is #IoT?  #BigData #DataScience #Analytics
+  #Startups #IIoT #InternetOfThings #Wearables #DeepLearning #makeyourownla…\",\"avatar\":\"https://pbs.twimg.com/profile_images/786104977777385473/ahjvSn5n_normal.jpg\"},{\"name\":\"sudheer
+  kumar\",\"body\":\"RT @Vecto_Mobile: What is #IoT?  #BigData #DataScience #Analytics
+  #Startups #IIoT #InternetOfThings #Wearables #DeepLearning #makeyourownla…\",\"avatar\":\"https://pbs.twimg.com/profile_images/809694592924692480/0GzGIRqA_normal.jpg\"},{\"name\":\"Stefan
+  Pechardscheck\",\"body\":\"From subject to soundbite, results to hype: Communicating
+  #DataScience https://t.co/dwSfn0GpDT via @forbes #BigData\",\"avatar\":\"https://pbs.twimg.com/profile_images/484308591910723584/icpo-IsD_normal.jpeg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @Vecto_Mobile: 10 Fundamental Terms for #DataScience &amp;
+  #MachineLearning #ML [#Infographic]\\n#AI #BigData #Analytics #IoT\\n#defstar5 #makey…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Andrew
+  Hamlet\",\"body\":\"https://t.co/UJZQCw4Gew #code #learn #data #datascience #python
+  #AI #ML ela\",\"avatar\":\"https://pbs.twimg.com/profile_images/788026161284648962/Cw2UrZRR_normal.jpg\"},{\"name\":\"sudheer
+  kumar\",\"body\":\"RT @Vecto_Mobile: 10 Fundamental Terms for #DataScience &amp;
+  #MachineLearning #ML [#Infographic]\\n#AI #BigData #Analytics #IoT\\n#defstar5 #makey…\",\"avatar\":\"https://pbs.twimg.com/profile_images/809694592924692480/0GzGIRqA_normal.jpg\"},{\"name\":\"Gopi
+  Nath\",\"body\":\"RT @eLearning_Feed: Deep Learning: Artificial Neural Networks
+  with #Python https://t.co/9T4qGfNDgx #edtech #datascience #machinelearning #a…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889318069872590854/Jb2KGNvk_normal.jpg\"},{\"name\":\"sudheer
+  kumar\",\"body\":\"RT @Vecto_Mobile: Levels of #BigData Maturity {#Infographic}\\n#IoT
+  #Digital #Analytics #DataScience #IoE #Entrepreneur #Startups #Tech #DX #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/809694592924692480/0GzGIRqA_normal.jpg\"},{\"name\":\"Alex
+  Barreto\",\"body\":\"RT @techjunkiejh: How-to: Use the New HDFS Intra-DataNode Disk
+  Balancer in Apache Hadoop  https://t.co/HQzNzVG8r7 #bigdata #datascience #ha…\",\"avatar\":\"https://pbs.twimg.com/profile_images/598640478657978368/PgSHeCsJ_normal.jpg\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"Successful
+  program evaluation &amp; #government reform!\\n\\n#4org #ombagencyreform #govtech
+  #hr #bigdata #makeyourownlane… https://t.co/nkCINXHRPY\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"GeoSymp\",\"body\":\"RT
+  @geoappsmith: #R or Python? Which to Choose for Data Analysis. https://t.co/ohlCAw6wXX
+  #analytics #bigdata #datascience #dataviz #python\",\"avatar\":\"https://pbs.twimg.com/profile_images/785403257690722304/OP9bTMAi_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @ScopePrice_: What is #datascience?\\n#Bigdata #analytics
+  #makeyourownlane #defstar5 #cloud #startups #Mpgvip #AI #ML #data #machinelearni…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Algorithmic
+  Effect\",\"body\":\"RT @creative_punch: Artificial Dataset for Machine Learning
+  with #Python and #Numpy / #Theano\\nhttps://t.co/Y94oRWsVgB\\n---\\n#DataScience
+  #Mac…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879908194797137920/AQCVrGdB_normal.jpg\"},{\"name\":\"Epic
+  Relevance\",\"body\":\"RT @ScopePrice_: What is #datascience?\\n#Bigdata #analytics
+  #makeyourownlane #defstar5 #cloud #startups #Mpgvip #AI #ML #data #machinelearni…\",\"avatar\":\"https://pbs.twimg.com/profile_images/709783590410674180/kbLAHfSv_normal.jpg\"},{\"name\":\"Discrete
+  Science\",\"body\":\"RT @rbukralia: Learn Everything about Sentiment Analysis using
+  R. https://t.co/kAx4Ugb5nG #TextAnalytics #DataScience #RStats\",\"avatar\":\"https://pbs.twimg.com/profile_images/879940020546699265/0freKU9d_normal.jpg\"},{\"name\":\"compliance4all\",\"body\":\"RT
+  @logtrustInc: What is #DeepLearning?| #MachineLearning #AI #DataScience #innovation
+  #ML #Robotics #NeuralNetworks #DevOps #innovation #s…\",\"avatar\":\"https://pbs.twimg.com/profile_images/582406556525842432/NhVP3E17_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @SukharevItaruss: What is #DeepLearning ? \\n\\n#ML #AI
+  #MachineLearning #ArtificialIntelligence #DataScience #Robotics #startup #news #DL
+  #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"David
+  Rubal, CISSP\",\"body\":\"RT @techjunkiejh: How-to: Use the New HDFS Intra-DataNode
+  Disk Balancer in Apache Hadoop  https://t.co/HQzNzVG8r7 #bigdata #datascience #ha…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2966358588/dae7fd1d0e7c82d9e7fff331dcaa00bb_normal.jpeg\"},{\"name\":\"compliance4all\",\"body\":\"RT
+  @pradeeprao_: What is 4th #industrial #revolution? \\n\\n#AI #ML #DL #Bigdata #tech
+  #robotics #innovation #datascience #IoT #cloud via @Worl…\",\"avatar\":\"https://pbs.twimg.com/profile_images/582406556525842432/NhVP3E17_normal.jpg\"},{\"name\":\"compliance4all\",\"body\":\"RT
+  @Ronald_vanLoon: Top Algorithms and Methods Used by Data Scientists | #DataScience
+  #DataScientist #RT https://t.co/5jqwusAIJX https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/582406556525842432/NhVP3E17_normal.jpg\"},{\"name\":\"Tech
+  Junkie\",\"body\":\"How-to: Use the New HDFS Intra-DataNode Disk Balancer in Apache
+  Hadoop  https://t.co/HQzNzVG8r7 #bigdata… https://t.co/OfVEbY0voH\",\"avatar\":\"https://pbs.twimg.com/profile_images/587160065536299009/9MBFPj6a_normal.png\"},{\"name\":\"IT
+  Knowingness\",\"body\":\"RT @gcosma1: Great read! ParlAI: A new software platform
+  for dialog research https://t.co/9OXaDaRH0L #DataScience #NLP #deeplearning #AI
+  #c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1164716874/favicon-triada-azul_normal.png\"},{\"name\":\"Mark
+  Lynd\",\"body\":\"RT @gcosma1: Great read! ParlAI: A new software platform for dialog
+  research https://t.co/9OXaDaRH0L #DataScience #NLP #deeplearning #AI #c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/318232148/Picture_8_normal.png\"},{\"name\":\"Relevant
+  Track\",\"body\":\"RT @jminguezc: Deep Learning Performance Detailed. #BigData #DeepLearning
+  #MachineLearning #DataScience #AI https://t.co/X5drwMTfDD https:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/558654629475393536/BKJ725d6_normal.jpeg\"},{\"name\":\"compliance4all\",\"body\":\"RT
+  @JacBurns_Comext: \U0001F51D9 Ways to Build Confidence in #BigData\\n#Analytics
+  #Success #Blockchain #AI  #DataScience #Entrepreneur #IoT #CIO #sta…\",\"avatar\":\"https://pbs.twimg.com/profile_images/582406556525842432/NhVP3E17_normal.jpg\"},{\"name\":\"Florence
+  Barbier\",\"body\":\"RT @EditorCorner: The #BigData Storymap #Infographic #AI #machinelearning
+  #DataScience #CDO #Analytics #FinTech V/ @Prashant_1722 RT @damie…\",\"avatar\":\"https://pbs.twimg.com/profile_images/890567508264181761/Wfaev-da_normal.jpg\"},{\"name\":\"Joel
+  Farvault\",\"body\":\"RT @gp_pulipaka: Running Data Preparations on Your Data Lake
+  With #Talend and #ApacheBeam. #BigData #DataScience #Talend \\nhttps://t.co/pMO4…\",\"avatar\":\"https://pbs.twimg.com/profile_images/493083009017716737/jeBM8yBl_normal.jpeg\"},{\"name\":\"INVESTPROJECTS\",\"body\":\"RT
+  @SukharevItaruss: What is #DeepLearning ? \\n\\n#ML #AI #MachineLearning #ArtificialIntelligence
+  #DataScience #Robotics #startup #news #DL #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/884396992369233920/BoJ6-Utn_normal.jpg\"},{\"name\":\"Joel
+  Farvault\",\"body\":\"RT @gp_pulipaka: Managing #DeepLearning Development Complexity.
+  #BigData #MachineLearning #DataScience #AI #Python| @NicoleHemsoth \\nhttps:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/493083009017716737/jeBM8yBl_normal.jpeg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @Prashant_1722: The #BigData Storymap | #infographic \\n#AI
+  #machinelearning #DataScience #CDO #CIO #analytics #makeyourownlane #defstar5…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Joel
+  Farvault\",\"body\":\"RT @KirkDBorne: Start your #DataScience career with some of
+  these resources:\\n1)https://t.co/XopodSdcM8\\n2)https://t.co/bZVPbUeUPw\\n3)https://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/493083009017716737/jeBM8yBl_normal.jpeg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @shivam03: #MachineLearning in one picture #DataScience
+  #Analytics https://t.co/mi3KK39tQu\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Joel
+  Farvault\",\"body\":\"RT @marcusborba: Cheat Sheets for #AI, #NeuralNetworks,#MachineLearning,#DeepLearning
+  &amp; #BigData https://t.co/4XihcGV4Bf #DataScience #Arti…\",\"avatar\":\"https://pbs.twimg.com/profile_images/493083009017716737/jeBM8yBl_normal.jpeg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @Prashant_1722: The #BigData Storymap | #infographic \\n#AI
+  #machinelearning #DataScience #CDO #CIO #analytics #makeyourownlane #defstar5…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Shailendra
+  Kumar\",\"body\":\"@evankirstel: What are the #IoT enablers?\\n#BigData #StartUp
+  #SMM \\n#AI #IoE #deeplearning #Industry40 #Cybersecurity #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1738758441/IMG_0812a_normal.jpg\"},{\"name\":\"Robert
+  Sills\",\"body\":\"#DataMining - What, Why, When #DataScience #BigData https://t.co/CThSucPgaB
+  https://t.co/Cw5q9HY8Vm\",\"avatar\":\"https://pbs.twimg.com/profile_images/728455379466649600/vb2WDeSf_normal.jpg\"},{\"name\":\"Subodh
+  Jain\",\"body\":\"RT @Prashant_1722: The #BigData Storymap | #infographic \\n#AI
+  #machinelearning #DataScience #CDO #CIO #analytics #makeyourownlane #defstar5…\",\"avatar\":\"https://pbs.twimg.com/profile_images/846303790231826432/keiRHG25_normal.jpg\"},{\"name\":\"Shivam
+  Desai PhD\",\"body\":\"#MachineLearning in one picture #DataScience #Analytics https://t.co/mi3KK39tQu\",\"avatar\":\"https://pbs.twimg.com/profile_images/878516621760921600/cB3ukxgj_normal.jpg\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"Keys
+  to #gov disruption  &amp; #innovation!\\n\\n#4org  #bigdata #makeyourownlane #govtech
+  #hrtech #humancapital #cio… https://t.co/w8LjmbkaIK\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"Serena.\",\"body\":\"Data
+  Science and Machine Learning with Python - Hands On!  https://t.co/u8uYgsR6mL #DataScience
+  #MachineLearning #Python\",\"avatar\":\"https://pbs.twimg.com/profile_images/835047192041684992/8dFkNWal_normal.jpg\"},{\"name\":\"Tech
+  Now or Never\",\"body\":\"RT @tusharspandit: Article no: 9\\n\\n#RapportBoost.AI
+  #NVIDIA #CUDA #GPU #DataScience #AI #DeepLearning \\n\\nhttps://t.co/bCf7dQG4bj
+  https://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/820833054650499076/rvvArnfQ_normal.jpg\"},{\"name\":\"Gregory
+  Prince\",\"body\":\"#DataScience: Learning Path - Data Science, Analytics, BI, Big
+  Data  https://t.co/5VpMOQDtQJ https://t.co/xOUBrRN668\",\"avatar\":\"https://pbs.twimg.com/profile_images/880345174114799617/PJRgFwHr_normal.jpg\"},{\"name\":\"Data
+  Science\",\"body\":\"#DataScience: Learning Path - Data Science, Analytics, BI,
+  Big Data  https://t.co/LOG6pxMBvR https://t.co/sXdXLSbKh8\",\"avatar\":\"https://pbs.twimg.com/profile_images/843082560435601409/llcA2b4K_normal.jpg\"},{\"name\":\"Don
+  R Williams\",\"body\":\"RT @gcosma1: Great! Adding noise to parameters of reinforcement
+  learning frequently boosts performance https://t.co/aEaG59Dc3n #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/822306040171491333/4kMVRTZL_normal.jpg\"},{\"name\":\"HighTechPro\",\"body\":\"RT
+  @silicontalent: #DataScience And #DeepLearning Application Leaders Form #GPU Open
+  Analytics Initiative | Business Wire https://t.co/PyK7…\",\"avatar\":\"https://pbs.twimg.com/profile_images/871079888182067200/KBcSRxxn_normal.jpg\"},{\"name\":\"Colby
+  Cosh\",\"body\":\"RT @Rbloggers: Five kinds of weather you’ll meet in America https://t.co/u2y2iKkU1D
+  #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/1655293249/PhotoBoothNov11_normal.gif\"},{\"name\":\"Anand
+  Singh\",\"body\":\"RT @KirkDBorne: Start your #DataScience career with some of these
+  resources:\\n1)https://t.co/XopodSdcM8\\n2)https://t.co/bZVPbUeUPw\\n3)https://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1498457807/TTTT_normal.jpg\"},{\"name\":\"HighTechPro\",\"body\":\"RT
+  @jminguezc: Kinetica Gets Fuzzy with In-Database #Algorithms.#BigData #DeepLearning
+  #MachineLearning #DataScience #AI #Analytics\\nhttps:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/871079888182067200/KBcSRxxn_normal.jpg\"},{\"name\":\"compliance4all\",\"body\":\"RT
+  @ipfconline1: Why #DataScience + #CyberSecurity? Study finds you are 2.25x more
+  likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/582406556525842432/NhVP3E17_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @4orgexcellence: Here's how #Bigdata #analytics has matured
+  as a viable practice!\\n\\n#innovation  #DataScience #cdo #4org #dataviz #tech #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"compliance4all\",\"body\":\"RT
+  @Fisher85M: Do you have what it takes to become a #Datascientist?\\n\\n#BigData
+  #SMM #startups\\n#DL #Cybersecurity #DataScience #Innovation #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/582406556525842432/NhVP3E17_normal.jpg\"},{\"name\":\"UtarSystems\",\"body\":\"RT
+  @4orgexcellence: Here's how #Bigdata #analytics has matured as a viable practice!\\n\\n#innovation
+  \ #DataScience #cdo #4org #dataviz #tech #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/845922486810296320/QN215K3M_normal.jpg\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"Here's
+  how #Bigdata #analytics has matured as a viable practice!\\n\\n#innovation  #DataScience
+  #cdo #4org #dataviz… https://t.co/gdjHQgLZkg\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"Rita
+  Edward\",\"body\":\"RT @Ronald_vanLoon: BMW’s New Motorcycle Concept Is So Smart
+  You Won’t Need a Helmet | #DataScience #Artificialintelligence #RT https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/602788314156904450/cDMtETFg_normal.jpg\"},{\"name\":\"HighTechPro\",\"body\":\"RT
+  @BigCloudTeam: Do you want the chance to win €100 in Amazon vouchers? https://t.co/B365mEqRWe
+  \    \\n\\n#BigData #DataScience #DeepLearning…\",\"avatar\":\"https://pbs.twimg.com/profile_images/871079888182067200/KBcSRxxn_normal.jpg\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"RT
+  @4orgexcellence: Secrets of gov #data unlocked!\\n#4org #makeyourownlane #DataScience
+  #PredictiveAnalytics #python #bigdata #blockchain #o…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @4orgexcellence: A top quality #tech partner for #government!\\n#makeyourownlane
+  #center4oe #datascience #govtech #bigdata #cio #ml #ai ht…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Andrew
+  Hamlet\",\"body\":\"https://t.co/tc3p59MFWL #code #learn #data #datascience #python
+  #AI #ML hll\",\"avatar\":\"https://pbs.twimg.com/profile_images/788026161284648962/Cw2UrZRR_normal.jpg\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"RT
+  @4orgexcellence: How to defend against #IoT attacks: #Top10 things to know\\n#CyberSecurity
+  #infosec #Security #4org #BigData #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"RT
+  @4orgexcellence: What are your #Innovation Objectives?  #center4oe #GrowthHacking
+  #Marketing #makeyourownlane #startups #datascience #SE…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"StartUpNews\",\"body\":\"RT
+  @HireMobiDev: Rise of the #Chatbots [Infographic] @ipfconline1 #AI #DeepLearning
+  #Startup #IoT #BigData #Analytics #DataScience #Fintech…\",\"avatar\":\"https://pbs.twimg.com/profile_images/732939935410491392/AwPhbtC3_normal.jpg\"},{\"name\":\"BEeconCH\",\"body\":\"RT
+  @tfkohler: The #job market for #datascience and #dataanalytics skills on the rise.
+  #pwc #ai #bigdata... https://t.co/CTNf7EhAJN by #bina…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Center4OrgExcellence\",\"body\":\"RT
+  @4orgexcellence: A top quality #tech partner for #government!\\n#makeyourownlane
+  #center4oe #datascience #govtech #bigdata #cio #ml #ai ht…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3092025550/55f907ea8f89e495775275b9c78fdb7f_normal.png\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @tfkohler: The #job market for #datascience and #dataanalytics
+  skills on the rise. #pwc #ai #bigdata... https://t.co/CTNf7EhAJN by #bina…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @FrancoisGomez_: \U0001F913 [Morning Learning] Quelle est la
+  différence entre #DataScience et #DataAnalytics ? https://t.co/1wunfsfDYd\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @tfkohler: The #job market for #datascience and #dataanalytics
+  skills on the rise. #pwc #ai #bigdata... https://t.co/CTNf7EhAJN by #bina…\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @brianbelljr: RT @DataRobot: It's a great time to be in #datascience
+  and #dataanalytics! https://t.co/PsTTCnIAAU\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @fanishshukla: RT MikeQuindazzi: The #job market for #datascience
+  and #dataanalytics skills on the rise. #pwc #ai #bigdata... https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @fanishshukla: RT MikeQuindazzi: The #job market for #datascience
+  and #dataanalytics skills on the rise. #pwc #ai #bigdata #ceosu… https…\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"Mark
+  Lynd\",\"body\":\"RT @bobehayes: Making Sense of Our #BigData World: Samples, Populations
+  and Sampling Error https://t.co/jJEtEz2pvn #datascience #analytics…\",\"avatar\":\"https://pbs.twimg.com/profile_images/318232148/Picture_8_normal.png\"},{\"name\":\"Math
+  Theories\",\"body\":\"RT @debashis_dutta: RT @KirkDBorne \\nTop 15 #Python Libraries
+  for #DataScience in 2017: https://t.co/xOiyo1j371 #BigData #MachineLearning #D…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879941575480152066/U-i0jWkU_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @wnbt1959: Free, hands-on lab #DSX #Spark #datascience #BigData
+  #Data #PredictiveAnalytics #DataScientist #CDO #DataAnalytics https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @Shyam17: #DataScience demands elastic infrastructure. #StartUp,
+  #BigData, #DataInfrastructure, #DataMining, #DataAnalytics,  https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"I
+  am a DataScientist\",\"body\":\"RT @BoozAllen: What's next for #DataScience? @KirkDBorne
+  shares 9 key domains: https://t.co/Piaw1eww7s #DataSciBowl https://t.co/zeH0MMNQzM\",\"avatar\":\"https://pbs.twimg.com/profile_images/589532033723957248/lO5EOsTh_normal.jpg\"},{\"name\":\"Relevant
+  Track\",\"body\":\"RT @HireMobiDev: Rise of the #Chatbots [Infographic] @ipfconline1
+  #AI #DeepLearning #Startup #IoT #BigData #Analytics #DataScience #Fintech…\",\"avatar\":\"https://pbs.twimg.com/profile_images/558654629475393536/BKJ725d6_normal.jpeg\"},{\"name\":\"MentorHealth\",\"body\":\"RT
+  @JacBurns_Comext: \U0001F51D9 Ways to Build Confidence in #BigData\\n#Analytics
+  #Success #Blockchain #AI  #DataScience #Entrepreneur #IoT #CIO #sta…\",\"avatar\":\"https://pbs.twimg.com/profile_images/614038144829140992/q4fkbHbm_normal.png\"},{\"name\":\"Pradeep\",\"body\":\"RT
+  @eLearning_Feed: Deep Learning: Artificial Neural Networks with #Python https://t.co/9T4qGfNDgx
+  #edtech #datascience #machinelearning #a…\",\"avatar\":\"https://pbs.twimg.com/profile_images/866918745507323904/VTcfGHe8_normal.jpg\"},{\"name\":\"Edison
+  David G.B.\",\"body\":\"RT @KirkDBorne: The ‘#Fintech’ Approach To #DataScience
+  And #MachineLearning: https://t.co/TDUMDsJUkS #PredictiveAnalytics HT @BourseetTrad…\",\"avatar\":\"https://pbs.twimg.com/profile_images/771778151613599744/4Y269nws_normal.jpg\"},{\"name\":\"Gopi
+  Nath\",\"body\":\"RT @KirkDBorne: The ‘#Fintech’ Approach To #DataScience And #MachineLearning:
+  https://t.co/TDUMDsJUkS #PredictiveAnalytics HT @BourseetTrad…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889318069872590854/Jb2KGNvk_normal.jpg\"},{\"name\":\"SpannerBot\",\"body\":\"RT
+  @gp_pulipaka: #ApacheKudu, #TensorFlow; #DeepLearning is a Hammer in Search of a
+  Nail. #BigData #MachineLearning #DataScience #AI \\nhttps…\",\"avatar\":\"https://pbs.twimg.com/profile_images/891120390575017985/V3Ub5NvY_normal.jpg\"},{\"name\":\"Edison
+  David G.B.\",\"body\":\"RT @KirkDBorne: The Neural Network Architecture Zoo: https://t.co/rb4OqvwMzK
+  #DeepLearning #AI #MachineLearning #BigData #DataScience by @a…\",\"avatar\":\"https://pbs.twimg.com/profile_images/771778151613599744/4Y269nws_normal.jpg\"},{\"name\":\"Gopi
+  Nath\",\"body\":\"RT @Ronald_vanLoon: Top Algorithms and Methods Used by Data Scientists
+  | #DataScience #DataScientist #RT https://t.co/5jqwusAIJX https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889318069872590854/Jb2KGNvk_normal.jpg\"},{\"name\":\"TUSHAR
+  PANDIT\",\"body\":\"Article no: 9\\n\\n#RapportBoost.AI #NVIDIA #CUDA #GPU #DataScience
+  #AI #DeepLearning \\n\\nhttps://t.co/bCf7dQG4bj https://t.co/dKfBd4SBjK\",\"avatar\":\"https://pbs.twimg.com/profile_images/615437365775994880/XmsFPsmx_normal.jpg\"},{\"name\":\"Ludmila
+  MorozovaBuss\",\"body\":\"RT @EditorCorner: The #BigData Storymap #Infographic #AI
+  #machinelearning #DataScience #CDO #Analytics #FinTech V/ @Prashant_1722 RT @damie…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1119691840/lmm_normal.jpeg\"},{\"name\":\"eLearning
+  Feeds\",\"body\":\"RT @eLearning_Feed: Deep Learning: Artificial Neural Networks
+  with #Python https://t.co/9T4qGfNDgx #edtech #datascience #machinelearning #a…\",\"avatar\":\"https://pbs.twimg.com/profile_images/833326691053338625/615d3PWD_normal.jpg\"},{\"name\":\"Gopi
+  Nath\",\"body\":\"RT @ipfconline1: Why #DataScience + #CyberSecurity? Study finds
+  you are 2.25x more likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889318069872590854/Jb2KGNvk_normal.jpg\"},{\"name\":\"Gopi
+  Nath\",\"body\":\"RT @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis
+  for #Business\\nhttps://t.co/XsMuuyUhxD  @DataScienceCtrl\\n#BigData #DataScience
+  #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889318069872590854/Jb2KGNvk_normal.jpg\"},{\"name\":\"shout
+  - ZA\",\"body\":\"RT @timxyoung: RT @DataRobot: It's a great time to be in #datascience
+  and #dataanalytics! https://t.co/OSmCG8YyGz\",\"avatar\":\"https://pbs.twimg.com/profile_images/853893961928368128/81Q8CNob_normal.jpg\"},{\"name\":\"Discrete
+  Science\",\"body\":\"RT @BigDataGal: Begin brainstorming ways to apply #DataScience
+  to your subject area. Read https://t.co/LPlIW8BvlS  #MachineLearning\",\"avatar\":\"https://pbs.twimg.com/profile_images/879940020546699265/0freKU9d_normal.jpg\"},{\"name\":\"Math
+  Boost\",\"body\":\"A Search for Anti-Aging Secrets Starts With the Blood of 600
+  Estonians https://t.co/32OlevKLOT #DataScience https://t.co/PHmYskRIg3\",\"avatar\":\"https://pbs.twimg.com/profile_images/496845076304101376/nyUffD1o_normal.png\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @Rbloggers: Five kinds of weather you’ll meet in America
+  https://t.co/u2y2iKkU1D #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"R-bloggers\",\"body\":\"Five
+  kinds of weather you’ll meet in America https://t.co/u2y2iKkU1D #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/502185985786916864/gkdFh-q7_normal.png\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @ActivevoiceSw: Tips To Prepare Cv For Data Science Roles
+  | Professional Cv https://t.co/JpkU63z1QR #datascience https://t.co/r5T5TqKw6x\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"ActiveVoice
+  SW\",\"body\":\"Tips To Prepare Cv For Data Science Roles | Professional Cv https://t.co/JpkU63z1QR
+  #datascience https://t.co/r5T5TqKw6x\",\"avatar\":\"https://pbs.twimg.com/profile_images/800493052326387712/j3bwLWCS_normal.jpg\"},{\"name\":\"Rajiv
+  Raval\",\"body\":\"RT @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis
+  for #Business\\nhttps://t.co/XsMuuyUhxD  @DataScienceCtrl\\n#BigData #DataScience
+  #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/814198012/tom_cruise_normal.jpg\"},{\"name\":\"Telgreen
+  Cloud\",\"body\":\"RT @InsightBrief: #InfluencerMarketing and the power of #DataScience https://t.co/P3CVQrx0u7
+  via @forbes #Marketing https://t.co/dHzrNhG7j0\",\"avatar\":\"https://pbs.twimg.com/profile_images/441738614439813123/3KC-7JNg_normal.jpeg\"},{\"name\":\"Carole
+  Ruvalcaba\",\"body\":\"RT @Ronald_vanLoon: Top Algorithms and Methods Used by Data
+  Scientists | #DataScience #DataScientist #RT https://t.co/5jqwusAIJX https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/475436829332631552/jlkArt3n_normal.jpeg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @BigCloudTeam: Take part in our #bigdata #datascience salary
+  survey at  https://t.co/B365mEqRWe  now! \\n#machinelearning #deeplearning #s…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"The
+  Last Galaxy\",\"body\":\"RT @AstroHyde: In case anyone is looking for something
+  to do this weekend... ;-) #neverboring #astronomy #datascience #sciencetwitter https…\",\"avatar\":\"https://pbs.twimg.com/profile_images/874482220442025988/he_fYCvo_normal.jpg\"},{\"name\":\"Discrete
+  Science\",\"body\":\"RT @BigCloudTeam: Take part in our #bigdata #datascience salary
+  survey at  https://t.co/B365mEqRWe  now! \\n#machinelearning #deeplearning #s…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879940020546699265/0freKU9d_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @iHarishPal: Top 5 Concerns of #BigData #Hadoop Implementation
+  \U0001F310 https://t.co/k5c3hpdLTn #DataScience #MachineLearning #Analytics #SQL
+  #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Lewis
+  Gavin\",\"body\":\"#MachineLearning Basics with Naive Bayes and #thesimpsons https://t.co/pmxDW73dXu
+  #datascience https://t.co/C8eOchTHEe\",\"avatar\":\"https://pbs.twimg.com/profile_images/674162372362285056/Wl1778td_normal.jpg\"},{\"name\":\"Harish
+  Pal\",\"body\":\"Top 5 Concerns of #BigData #Hadoop Implementation \U0001F310 https://t.co/k5c3hpdLTn
+  #DataScience #MachineLearning #Analytics #SQL #Spark #Java\",\"avatar\":\"https://pbs.twimg.com/profile_images/845159895020126211/g00aucYf_normal.jpg\"},{\"name\":\"Smart
+  Medicine\",\"body\":\"RT @mhrsafa: Deep Learning Applications in Medical Imaging
+  https://t.co/dSwkmQ5f83  #AI #DataScience #BigData #MachineLearning #DeepLearnin…\",\"avatar\":\"https://pbs.twimg.com/profile_images/742611383997628416/lEUvIIJ-_normal.jpg\"},{\"name\":\"UtarSystems\",\"body\":\"RT
+  @gp_pulipaka: The Rise of Messaging and Death of Apps. #BigData #MachineLearning
+  #DataScience #AI #Chatbots\\nhttps://t.co/re4YffraOn http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/845922486810296320/QN215K3M_normal.jpg\"},{\"name\":\"UtarSystems\",\"body\":\"RT
+  @gp_pulipaka: #NeatPython: #Python implementation of the Neuroevolution Algorithm.
+  #BigData #MachineLearning #DataScience #AI \\nhttps://t…\",\"avatar\":\"https://pbs.twimg.com/profile_images/845922486810296320/QN215K3M_normal.jpg\"},{\"name\":\"Bob
+  E. Hayes\",\"body\":\"15% of data pros said their work is more for machine consumption
+  #DataProPoll https://t.co/gYXARZwKiz #machinelearning #datascience\",\"avatar\":\"https://pbs.twimg.com/profile_images/773045033540853761/8VwNcbyh_normal.jpg\"},{\"name\":\"Mohamed
+  Safa\",\"body\":\"Deep Learning Applications in Medical Imaging https://t.co/dSwkmQ5f83
+  \ #AI #DataScience #BigData #MachineLearning… https://t.co/1j80lzRkZp\",\"avatar\":\"https://pbs.twimg.com/profile_images/779720216926425089/Pf8QqtRD_normal.jpg\"},{\"name\":\"Fernando
+  Marín\",\"body\":\"Follow these Top #Influencers!\\n\\nhttps://t.co/2sVnDuU3DB\\n#Tech
+  #bigdata #Datascience #Fintech #infosec #IoT \\n#Marketing #Business #Innovation\",\"avatar\":\"https://pbs.twimg.com/profile_images/796251614965338112/EuP-3QlF_normal.jpg\"},{\"name\":\"Ricardo
+  Soto Erazo\",\"body\":\"RT @ipfconline1: Why #DataScience + #CyberSecurity? Study
+  finds you are 2.25x more likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/750415532445147136/42NMWJI9_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @gp_pulipaka: The Rise of Messaging and Death of Apps. #BigData
+  #MachineLearning #DataScience #AI #Chatbots\\nhttps://t.co/re4YffraOn http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: #NeatPython: #Python implementation of the Neuroevolution Algorithm.
+  #BigData #MachineLearning #DataScience #AI \\nhttps://t…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: Network Analysis of Mineralogical Systems. #BigData #MachineLearning
+  #DataScience #AI #DataMining\\nhttps://t.co/JVDBemxvJj…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: The Rise of Messaging and Death of Apps. #BigData #MachineLearning
+  #DataScience #AI #Chatbots\\nhttps://t.co/re4YffraOn http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: Microservices Architecture for eCommerce. #BigData #DataScience #SOA
+  #NoSQL #eCommerce #Dockers\\nhttps://t.co/Cna9AFIvi2 ht…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: Uncovering Criminal Networks From Crime Locations. #BigData #DeepLearning
+  #MachineLearning #DataScience #AI \\nhttps://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: RAM Is the New Disk. #BigData #MachineLearning #DataScience #AI \\nhttps://t.co/OQH7gqVoYc
+  https://t.co/9mpx3J6Nmj\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: Running Data Preparations on Your Data Lake With #Talend and #ApacheBeam.
+  #BigData #DataScience #Talend \\nhttps://t.co/pMO4…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"Andrew
+  Hamlet\",\"body\":\"https://t.co/5NIXl4wrdk #code #learn #data #datascience #python
+  #AI #ML eme\",\"avatar\":\"https://pbs.twimg.com/profile_images/788026161284648962/Cw2UrZRR_normal.jpg\"},{\"name\":\"Deus
+  ex machina\",\"body\":\"RT @debashis_dutta: RT @KirkDBorne \\nTop 15 #Python Libraries
+  for #DataScience in 2017: https://t.co/xOiyo1j371 #BigData #MachineLearning #D…\",\"avatar\":\"https://pbs.twimg.com/profile_images/888262460150497280/UpzsdE6m_normal.jpg\"},{\"name\":\"K-State
+  Data Science\",\"body\":\"RT @kdnuggets: Some advice for young and aspiring Data
+  Scientists via r/datascience #reddit #DataScience https://t.co/vfYbSlRNCT https://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/461406200110665728/u6qzKhIg_normal.png\"},{\"name\":\"Françoise
+  Morvan\",\"body\":\"RT @Ronald_vanLoon: Data Science\\\" OR #datascience via NodeXL
+  @ronald_vanloon @alevergara78 @kirkdborne @datasciencectrl @yarmolukdan | http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/889960368315006976/8ZRpqIal_normal.jpg\"},{\"name\":\"Sree
+  Lakshmi Gandham\",\"body\":\"RT @chboursin: Want to be a #DataScientist? 25 #data
+  skills in the field of #DataScience.#MachineLearning #BigData #DataMining #Statistics…\",\"avatar\":\"https://pbs.twimg.com/profile_images/828271048281964544/cvB37-4h_normal.jpg\"},{\"name\":\"I
+  am a DataScientist\",\"body\":\"#DataScience on State of the Union addresses starting
+  from 1790 to Obama's final one https://t.co/h1RlTc3h0Z https://t.co/8w5XoNJQhO\",\"avatar\":\"https://pbs.twimg.com/profile_images/589532033723957248/lO5EOsTh_normal.jpg\"},{\"name\":\"Manuel
+  Schmidt\",\"body\":\"RT @gcosma1: Great! Adding noise to parameters of reinforcement
+  learning frequently boosts performance https://t.co/aEaG59Dc3n #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/799343818013286400/WJF1agmZ_normal.jpg\"},{\"name\":\"Rita
+  Edward\",\"body\":\"RT @Fisher85M: Do you have what it takes to become a #Datascientist?\\n\\n#BigData
+  #SMM #startups\\n#DL #Cybersecurity #DataScience #Innovation #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/602788314156904450/cDMtETFg_normal.jpg\"},{\"name\":\"Don
+  R Williams\",\"body\":\"RT @KirkDBorne: Internet of Things — #Sensors &amp; Sensing:
+  https://t.co/zm6wa2P8aC #abdsc #IoT #BigData #DataScience #MachineLearning #AI via…\",\"avatar\":\"https://pbs.twimg.com/profile_images/822306040171491333/4kMVRTZL_normal.jpg\"},{\"name\":\"Michael
+  P Adams\",\"body\":\"RT @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis
+  for #Business\\nhttps://t.co/XsMuuyUhxD  @DataScienceCtrl\\n#BigData #DataScience
+  #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879409779784826880/kC38SBpe_normal.jpg\"},{\"name\":\"Big
+  Data\",\"body\":\"RT ctricot: #DataScience: The Hitchhiker’s Guide to Machine Learning
+  Algorithms in Python #programming https://t.co/4Dy0IobhMV\",\"avatar\":\"https://pbs.twimg.com/profile_images/881582205813878784/yfAZ58wd_normal.jpg\"},{\"name\":\"Point
+  North\",\"body\":\"RT @ipfconline1: Why #DataScience + #CyberSecurity? Study finds
+  you are 2.25x more likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/860157197975728130/0v94i_KY_normal.jpg\"},{\"name\":\"Christophe
+  Tricot \U0001F916\",\"body\":\"#DataScience: The Hitchhiker’s Guide to Machine Learning
+  Algorithms in Python #programming https://t.co/77UoCm7ic9\",\"avatar\":\"https://pbs.twimg.com/profile_images/852417359629496320/p7lZZ8Z7_normal.jpg\"},{\"name\":\"Math
+  Theories\",\"body\":\"RT @Ronald_vanLoon: BMW’s New Motorcycle Concept Is So Smart
+  You Won’t Need a Helmet | #DataScience #Artificialintelligence #RT https://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879941575480152066/U-i0jWkU_normal.jpg\"},{\"name\":\"Patrick_Roubinet\",\"body\":\"RT
+  @ExcelStrategies: Practical big data - DNA testing: https://t.co/UyZa5rUsG0 By @KirkDBorne
+  #BigData #Analytics #DNA #DataScience #DNATes…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"DrLCle\",\"body\":\"RT
+  @DD_NaNa_: R Programming A-Z™: R For Data Science With Real Exercises! https://t.co/SrdP27lyY5
+  #R #DataScience #Exercises\",\"avatar\":\"https://pbs.twimg.com/profile_images/723669053265580032/ad4AiH0m_normal.jpg\"},{\"name\":\"H.C.Beniwal\",\"body\":\"RT
+  @harishchand314: #DataScience - Basics Of #Statistics - Part 1 by @refreshingidea
+  cc @CsharpCorner https://t.co/LpoHhpp6JT #DataBase htt…\",\"avatar\":\"https://pbs.twimg.com/profile_images/838009080404901889/n9ui5DmQ_normal.jpg\"},{\"name\":\"Vinko
+  Kodžoman\",\"body\":\"What you should know about AI https://t.co/uYA3e9GUZw via
+  @techcrunch #AI #MachineLearning #DataScience #NeuralNetworks #BigData #Data\",\"avatar\":\"https://pbs.twimg.com/profile_images/853601089270292480/fN2n8bm5_normal.jpg\"},{\"name\":\"UtarSystems\",\"body\":\"RT
+  @gp_pulipaka: Network Analysis of Mineralogical Systems. #BigData #MachineLearning
+  #DataScience #AI #DataMining\\nhttps://t.co/JVDBemxvJj…\",\"avatar\":\"https://pbs.twimg.com/profile_images/845922486810296320/QN215K3M_normal.jpg\"},{\"name\":\"zenblockgame\",\"body\":\"Google
+  Maps update adds traffic prediction\\n#AI #BigData #IoT #MachineLearning #tech #ArtificialIntelligence…
+  https://t.co/NkmUKNj99I\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"zenblockgame\",\"body\":\"App
+  uses facial recognition to track missing children\\nhttps://t.co/Y0wJ2tmjek\\n#tech
+  #news #technology #AI #BigData… https://t.co/ifFnokSTuo\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"Sylvia
+  Lobo\",\"body\":\"RT @Ronald_vanLoon: Data Science\\\" OR #datascience via NodeXL
+  @ronald_vanloon @alevergara78 @kirkdborne @datasciencectrl @yarmolukdan | http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/428942970688004096/gE5QU6cy_normal.jpeg\"},{\"name\":\"R
+  Bor\",\"body\":\"RT @gp_pulipaka: Network Analysis of Mineralogical Systems. #BigData
+  #MachineLearning #DataScience #AI #DataMining\\nhttps://t.co/JVDBemxvJj…\",\"avatar\":\"https://pbs.twimg.com/profile_images/803016753727078400/qKlvQL1x_normal.jpg\"},{\"name\":\"iamshaily\",\"body\":\"@harishchand314:
+  #DataScience - Basics Of #Statistics - Part 1 by @refreshingidea cc @CsharpCorner
+  https://t.co/zLj5sX9Ln5 #DataBase…\",\"avatar\":\"https://pbs.twimg.com/profile_images/662841617456361472/DmDJhxbA_normal.jpg\"},{\"name\":\"Pavan
+  Kumar\",\"body\":\"RT @harishchand314: #DataScience - Basics Of #Statistics - Part
+  1 by @refreshingidea cc @CsharpCorner https://t.co/LpoHhpp6JT #DataBase htt…\",\"avatar\":\"https://pbs.twimg.com/profile_images/890891668156817408/AG7t6zrr_normal.jpg\"},{\"name\":\"Mercurio_AI\",\"body\":\"RT
+  @zenblockgame: Snowball is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI #BigData #IoT
+  \ #tech #ArtificialIntelligence #DeepLearning #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/865907497609068544/uhMNihqJ_normal.jpg\"},{\"name\":\"Riccardo
+  Tasso\",\"body\":\"RT @bigdive_eu: Meet the #BIGDIVE6 class! This is our official
+  2017 YEARBOOK video https://t.co/HRm7QET5ls #bigdata #datascience #datadrive…\",\"avatar\":\"https://pbs.twimg.com/profile_images/286276731/DSCN0044_normal.jpg\"},{\"name\":\"HS\",\"body\":\"RT
+  @gvyshnya: Who Hacked the Election? by @d1gi https://t.co/erwPc6hTcC - great case
+  of #datascience helping to expose political issues #se…\",\"avatar\":\"https://pbs.twimg.com/profile_images/886969693923414016/hrUhr8pE_normal.jpg\"},{\"name\":\"MysteriousPisces\",\"body\":\"RT
+  @JacBurns_Comext: Decision Tree #BusinessIntelligence \\n#DataScience #BigData #datascientist
+  #BI #Mobile #SmallBusiness #SmallBiz #Startu…\",\"avatar\":\"https://pbs.twimg.com/profile_images/867272629559988224/RhibDsXC_normal.jpg\"},{\"name\":\"MysteriousPisces\",\"body\":\"RT
+  @JacBurns_Comext: \U0001F51D9 Ways to Build Confidence in #BigData\\n#Analytics
+  #Success #Blockchain #AI  #DataScience #Entrepreneur #IoT #CIO #sta…\",\"avatar\":\"https://pbs.twimg.com/profile_images/867272629559988224/RhibDsXC_normal.jpg\"},{\"name\":\"RoboticsMonkey\",\"body\":\"RT
+  @zenblockgame: Snowball is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI #BigData #IoT
+  \ #tech #ArtificialIntelligence #DeepLearning #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/791913499991674880/SFI6VeoQ_normal.jpg\"},{\"name\":\"NaNa\U0001F4AC\",\"body\":\"R
+  Programming A-Z™: R For Data Science With Real Exercises! https://t.co/SrdP27lyY5
+  #R #DataScience #Exercises\",\"avatar\":\"https://pbs.twimg.com/profile_images/675654837418090496/8dn7JUUL_normal.jpg\"},{\"name\":\"정재환\",\"body\":\"RT
+  @Rbloggers: Transfer Learning with Keras in R https://t.co/jTXs4NMQZP #rstats #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/554406701/avator_normal.png\"},{\"name\":\"BlockChainBusiness\",\"body\":\"RT
+  @zenblockgame: Snowball is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI #BigData #IoT
+  \ #tech #ArtificialIntelligence #DeepLearning #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/789817198126784512/49XGk0eL_normal.jpg\"},{\"name\":\"Indra
+  Eko\",\"body\":\"RT @gp_pulipaka: Managing #DeepLearning Development Complexity.
+  #BigData #MachineLearning #DataScience #AI #Python| @NicoleHemsoth \\nhttps:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/848805200215154688/8nSL98yI_normal.jpg\"},{\"name\":\"zenblockgame\",\"body\":\"https://t.co/yE9qi0oD43
+  Poor Morty\\n#AI #BigData #IoT #MachineLearning #ML #fintech #tech #ArtificialIntelligence…
+  https://t.co/m8fC5m3jU7\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"Justin
+  Knight\",\"body\":\"RT @gcosma1: Great! Adding noise to parameters of reinforcement
+  learning frequently boosts performance https://t.co/aEaG59Dc3n #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000657132057/8bd3469ac323a0e014564d31ecdba8e9_normal.jpeg\"},{\"name\":\"IoTbyTimelab\",\"body\":\"RT
+  @JacBurns_Comext: 5 Key #IoTSecurity in #SupplyChain https://t.co/Nl1Gbqe5vX #infosec\\n#IoT
+  #IIoT #DataScience #CyberAttack #AI #Hacking…\",\"avatar\":\"https://pbs.twimg.com/profile_images/869175261086060544/bjtJqwiM_normal.jpg\"},{\"name\":\"George
+  Chiesa, FRSA\",\"body\":\"RT @DeborahTannon: #DataScience — The Hitchhiker’s Guide
+  to Machine Learning Algorithms in Python : https://t.co/oEF9fbDsR9\",\"avatar\":\"https://pbs.twimg.com/profile_images/1199103310/Jch_Low_normal.jpg\"},{\"name\":\"NeuralPresidentPL\",\"body\":\"RT
+  @gp_pulipaka: Managing #DeepLearning Development Complexity. #BigData #MachineLearning
+  #DataScience #AI #Python| @NicoleHemsoth \\nhttps:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/847837197633863681/ZceRrvAR_normal.jpg\"},{\"name\":\"Sarah
+  O'Connell\",\"body\":\"RT @ipfconline1: Why #DataScience + #CyberSecurity? Study
+  finds you are 2.25x more likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/871145001291526145/KL_vcR-b_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: Managing #DeepLearning Development Complexity. #BigData #MachineLearning
+  #DataScience #AI #Python| @NicoleHemsoth \\nhttps:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"Alex
+  Barreto\",\"body\":\"RT @DD_FaFa_: Data Science and Machine Learning with Python
+  - Hands On!  https://t.co/7dZTUmxBFQ #DataScience #MachineLearning #Python\",\"avatar\":\"https://pbs.twimg.com/profile_images/598640478657978368/PgSHeCsJ_normal.jpg\"},{\"name\":\"DeepSingularity\",\"body\":\"RT
+  @gp_pulipaka: Summer Listening List For #DataScientists On @audible_com. #BigData
+  #MachineLearning #DataScience #AI #AudioBooks\\nhttps://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/740909379621244928/cPIOKx_E_normal.jpg\"},{\"name\":\"Binni
+  Borgar\",\"body\":\"RT @TopCyberNews: The #BigData Storymap #Infographic #AI #machinelearning
+  #DataScience #CDO #Analytics #FinTech V/ @Prashant_1722 RT @damie…\",\"avatar\":\"https://pbs.twimg.com/profile_images/745984248633491456/40Embe6__normal.jpg\"},{\"name\":\"wjcybernews.com\",\"body\":\"RT
+  @ipfconline1: Why #DataScience + #CyberSecurity? Study finds you are 2.25x more
+  likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/892466001882775552/fnEdlwra_normal.jpg\"},{\"name\":\"Pearl
+  Eco Group\",\"body\":\"RT @siliconlikes: .@google Data Center #datascience #data
+  #infrastructure https://t.co/l2DRrtrS5O via @youtube #siliconvalleyhbo #siliconva…\",\"avatar\":\"https://pbs.twimg.com/profile_images/737960619102642176/VjO0olvf_normal.jpg\"},{\"name\":\"wjcybernews.com\",\"body\":\"RT
+  @Fisher85M: Do you have what it takes to become a #Datascientist?\\n\\n#BigData
+  #SMM #startups\\n#DL #Cybersecurity #DataScience #Innovation #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/892466001882775552/fnEdlwra_normal.jpg\"},{\"name\":\"Big
+  DataScience Flow\",\"body\":\"RT @ahmedjr_16: 11 #BigData Courses To Become Top
+  #DataScientist\\n\\nhttps://t.co/yClYWc2MfC\\n\\n#smallbusiness #DataScience #MachineLearning
+  #ML…\",\"avatar\":\"https://pbs.twimg.com/profile_images/733901283279708160/9_pvKhgH_normal.jpg\"},{\"name\":\"Big
+  DataScience Flow\",\"body\":\"RT @gp_pulipaka: Summer Listening List For #DataScientists
+  On @audible_com. #BigData #MachineLearning #DataScience #AI #AudioBooks\\nhttps://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/733901283279708160/9_pvKhgH_normal.jpg\"},{\"name\":\"Dr
+  Alan Beckles\",\"body\":\"RT @DataconomyMedia: Top 10 Data Science and Machine Learning
+  Podcasts https://t.co/GMkeYKSrUg #datascience #machinelearning @m_learningnew…\",\"avatar\":\"https://pbs.twimg.com/profile_images/807359043/foto_22_normal.jpg\"},{\"name\":\"The
+  Binary Loom\",\"body\":\"RT @zenblockgame: Snowball is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI
+  #BigData #IoT  #tech #ArtificialIntelligence #DeepLearning #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/753551016847630337/1LBomLMg_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @KirkDBorne: Internet of Things — #Sensors &amp; Sensing:
+  https://t.co/zm6wa2P8aC #abdsc #IoT #BigData #DataScience #MachineLearning #AI via…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Jacek
+  (Jomsborg)\",\"body\":\"RT @KirkDBorne: Internet of Things — #Sensors &amp; Sensing:
+  https://t.co/zm6wa2P8aC #abdsc #IoT #BigData #DataScience #MachineLearning #AI via…\",\"avatar\":\"https://pbs.twimg.com/profile_images/600251572132519936/QwBBrCg6_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @zenblockgame: Snowball is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI
+  #BigData #IoT  #tech #ArtificialIntelligence #DeepLearning #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @zenblockgame: Snowball is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI
+  #BigData #IoT  #tech #ArtificialIntelligence #DeepLearning #DataScience…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Patrick
+  Saucet\",\"body\":\"Le #BigData : état actuel et évolution #datascience #analytics
+  #ArtificialIntelligence #AI #DeepLearning #CDO https://t.co/ypfWQwmwZ9\",\"avatar\":\"https://pbs.twimg.com/profile_images/875653040623149058/sV7ayKvV_normal.jpg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @JacBurns_Comext: 5 Key #IoTSecurity in #SupplyChain https://t.co/Nl1Gbqe5vX
+  #infosec\\n#IoT #IIoT #DataScience #CyberAttack #AI #Hacking…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"Justin
+  Knight\",\"body\":\"RT @gp_pulipaka: #NeatPython: #Python implementation of the
+  Neuroevolution Algorithm. #BigData #MachineLearning #DataScience #AI \\nhttps://t…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000657132057/8bd3469ac323a0e014564d31ecdba8e9_normal.jpeg\"},{\"name\":\"Jesse
+  Rodriguez\",\"body\":\"RT @JacBurns_Comext: \U0001F51D9 Ways to Build Confidence
+  in #BigData\\n#Analytics #Success #Blockchain #AI  #DataScience #Entrepreneur #IoT
+  #CIO #sta…\",\"avatar\":\"https://pbs.twimg.com/profile_images/762903270058823680/pzuB4HWl_normal.jpg\"},{\"name\":\"zenblockgame\",\"body\":\"Snowball
+  is so cute!\\nhttps://t.co/xcX7NpLcU9\\n#AI #BigData #IoT  #tech #ArtificialIntelligence
+  #DeepLearning… https://t.co/0RTnlryEyg\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"Justin
+  Knight\",\"body\":\"RT @gp_pulipaka: The Rise of Messaging and Death of Apps. #BigData
+  #MachineLearning #DataScience #AI #Chatbots\\nhttps://t.co/re4YffraOn http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000657132057/8bd3469ac323a0e014564d31ecdba8e9_normal.jpeg\"},{\"name\":\"Dario
+  Masiero\",\"body\":\"RT @analyticbridge: 5 #datascience books you should read in
+  2017 https://t.co/QGOVRsf7dp https://t.co/Zapdvd1FLz\",\"avatar\":\"https://pbs.twimg.com/profile_images/1803038390/dario055_normal.JPG\"},{\"name\":\"Sarah\",\"body\":\"RT
+  @JacBurns_Comext: 5 Key #IoTSecurity in #SupplyChain https://t.co/Nl1Gbqe5vX #infosec\\n#IoT
+  #IIoT #DataScience #CyberAttack #AI #Hacking…\",\"avatar\":\"https://pbs.twimg.com/profile_images/870160146890080256/gxNXNeSt_normal.jpg\"},{\"name\":\"Math
+  Theories\",\"body\":\"RT @sandrahanchard: Dataviz.my is running a #personalised
+  learning #datascience course this Sep-Oct in KL. DM if you're interested: https:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/879941575480152066/U-i0jWkU_normal.jpg\"},{\"name\":\"Nick
+  Bravery\",\"body\":\"RT @RedSkyDV: AI will not replace software https://t.co/JOQ3OdF967
+  via @techcrunch #innovation #digital #datascience\",\"avatar\":\"https://pbs.twimg.com/profile_images/892303847120445440/GRvweAC__normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @TopCyberNews: The #BigData Storymap #Infographic #AI #machinelearning
+  #DataScience #CDO #Analytics #FinTech V/ @Prashant_1722 RT @damie…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Margaret
+  williams\",\"body\":\"RT @TopCyberNews: The #BigData Storymap #Infographic #AI #machinelearning
+  #DataScience #CDO #Analytics #FinTech V/ @Prashant_1722 RT @damie…\",\"avatar\":\"https://pbs.twimg.com/profile_images/602787356693778433/no9AfbR9_normal.jpg\"},{\"name\":\"George
+  Vyshnya\",\"body\":\"Who Hacked the Election? by @d1gi https://t.co/erwPc6hTcC -
+  great case of #datascience helping to expose political issues #security #hacking\",\"avatar\":\"https://pbs.twimg.com/profile_images/77988359/george_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @DD_FaFa_: Data Science and Machine Learning with Python
+  - Hands On!  https://t.co/7dZTUmxBFQ #DataScience #MachineLearning #Python\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"zenblockgame\",\"body\":\"China
+  to launch unhackable quantum messaging\\nhttps://t.co/egYsWa58xT\\n#AI #MachineLearning
+  #ArtificialIntelligence… https://t.co/2i6ZFLT1DE\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"I
+  am a DataScientist\",\"body\":\"RT @_Five_O: No Go: Facebook fails to spoil Google's
+  big AI day https://t.co/drvhVCy1GY #datascience\",\"avatar\":\"https://pbs.twimg.com/profile_images/589532033723957248/lO5EOsTh_normal.jpg\"},{\"name\":\"TC\",\"body\":\"RT
+  @ipfconline1: 10 Tools for Data Visualizing &amp; Analysis for #Business\\nhttps://t.co/XsMuuyUhxD
+  \ @DataScienceCtrl\\n#BigData #DataScience #An…\",\"avatar\":\"https://pbs.twimg.com/profile_images/720242973112295426/iDoCiY2q_normal.jpg\"},{\"name\":\"UtarSystems\",\"body\":\"RT
+  @DD_FaFa_: Data Science and Machine Learning with Python - Hands On!  https://t.co/7dZTUmxBFQ
+  #DataScience #MachineLearning #Python\",\"avatar\":\"https://pbs.twimg.com/profile_images/845922486810296320/QN215K3M_normal.jpg\"},{\"name\":\"Amy
+  Toralba\",\"body\":\"RT @ipfconline1: Why #DataScience + #CyberSecurity? Study finds
+  you are 2.25x more likely to detect a #CyberAttack within minutes!\\n@MikeQui…\",\"avatar\":\"https://pbs.twimg.com/profile_images/749724287880294400/wWuLHrM2_normal.jpg\"},{\"name\":\"Fafa\",\"body\":\"Data
+  Science and Machine Learning with Python - Hands On!  https://t.co/7dZTUmxBFQ #DataScience
+  #MachineLearning #Python\",\"avatar\":\"https://pbs.twimg.com/profile_images/731524337853825025/lhnwVsYX_normal.jpg\"},{\"name\":\"Andrew
+  Hamlet\",\"body\":\"https://t.co/eWfS07rvDW #code #learn #data #datascience #python
+  #AI #ML hlw\",\"avatar\":\"https://pbs.twimg.com/profile_images/788026161284648962/Cw2UrZRR_normal.jpg\"},{\"name\":\"Christopher
+  Burnette\",\"body\":\"RT @chboursin: Want to be a #DataScientist? 25 #data skills
+  in the field of #DataScience.#MachineLearning #BigData #DataMining #Statistics…\",\"avatar\":\"https://pbs.twimg.com/profile_images/841210424599109632/eO4g3fSs_normal.jpg\"},{\"name\":\"aksonnet\",\"body\":\"RT
+  @chboursin: Want to be a #DataScientist? 25 #data skills in the field of #DataScience.#MachineLearning
+  #BigData #DataMining #Statistics…\",\"avatar\":\"https://pbs.twimg.com/profile_images/476728691540905984/f95ovPRA_normal.jpeg\"},{\"name\":\"H
+  Summers\",\"body\":\"RT @odsc: What’s new in PyMC3 3.1 https://t.co/YxNU0S51wz #ODSC
+  #DataScience https://t.co/q3ngJXriP0\",\"avatar\":\"https://pbs.twimg.com/profile_images/845833542307336192/Lg_SSrMt_normal.jpg\"},{\"name\":\"Acertijo\",\"body\":\"RT
+  @chboursin: Want to be a #DataScientist? 25 #data skills in the field of #DataScience.#MachineLearning
+  #BigData #DataMining #Statistics…\",\"avatar\":\"https://pbs.twimg.com/profile_images/981970762/ad08c6b7-7637-445b-937c-c342e8685c86_normal.png\"},{\"name\":\"Rich
+  Kubat\",\"body\":\"RT @gp_pulipaka: The Rise of Messaging and Death of Apps. #BigData
+  #MachineLearning #DataScience #AI #Chatbots\\nhttps://t.co/re4YffraOn http…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Patrick_Roubinet\",\"body\":\"RT
+  @analyticbridge: 5 Phases To Successfully Complete a #DataScience Project https://t.co/uHgtd1Rqwq
+  https://t.co/TgfBQWGAhI\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Rich
+  Kubat\",\"body\":\"RT @gp_pulipaka: Network Analysis of Mineralogical Systems. #BigData
+  #MachineLearning #DataScience #AI #DataMining\\nhttps://t.co/JVDBemxvJj…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Patrick_Roubinet\",\"body\":\"RT
+  @Rbloggers: Showing Some Respect for Data Munging https://t.co/b6SbBVi6Ii #rstats
+  #DataScience\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Rich
+  Kubat\",\"body\":\"RT @gp_pulipaka: Microservices Architecture for eCommerce. #BigData
+  #DataScience #SOA #NoSQL #eCommerce #Dockers\\nhttps://t.co/Cna9AFIvi2 ht…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Patrick_Roubinet\",\"body\":\"RT
+  @developerWorks: Learn how to calculate a z-score for a time window w/ @RomeoKienzler
+  #datascience https://t.co/Mavmph5mam\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Dilys\",\"body\":\"RT
+  @siliconlikes: .@google Data Center #datascience #data #infrastructure https://t.co/l2DRrtrS5O
+  via @youtube #siliconvalleyhbo #siliconva…\",\"avatar\":\"https://pbs.twimg.com/profile_images/870104375351418881/DBy_nDJl_normal.jpg\"},{\"name\":\"Springer
+  Nature Jobs\",\"body\":\"RT @SpringerNature: Are social media trends real or manufactured?
+  #DataScience can help provide answers. #BigData https://t.co/DIS7IQyBDu h…\",\"avatar\":\"https://pbs.twimg.com/profile_images/658613067157282816/5AXL3mQe_normal.png\"},{\"name\":\"Big
+  Data Conference\",\"body\":\"Coolest Offer!! get $135 discount for 5th #GBDCA at
+  #Santaclara https://t.co/0LdxtisgL6 use promo code TWITTER to reg #BigData #DataScience\",\"avatar\":\"https://pbs.twimg.com/profile_images/858591702067666944/G-8b1UGv_normal.jpg\"},{\"name\":\"UtarSystems\",\"body\":\"RT
+  @gp_pulipaka: #PyBoost: A Parallelized Python implementation. #BigData #MachineLearning
+  #DataScience #AI #Python #C\\nhttps://t.co/iRHsoJ7…\",\"avatar\":\"https://pbs.twimg.com/profile_images/845922486810296320/QN215K3M_normal.jpg\"},{\"name\":\"alejandro
+  vergara\",\"body\":\"RT @gp_pulipaka: #PyBoost: A Parallelized Python implementation.
+  #BigData #MachineLearning #DataScience #AI #Python #C\\nhttps://t.co/iRHsoJ7…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477167045772312577/3q1ssMVN_normal.jpeg\"},{\"name\":\"Silicon
+  Vanity\",\"body\":\".@google Data Center #datascience #data #infrastructure https://t.co/l2DRrtrS5O
+  via @youtube #siliconvalleyhbo #siliconvalley\",\"avatar\":\"https://pbs.twimg.com/profile_images/821922886185164800/6wGHPhKT_normal.jpg\"},{\"name\":\"zenblockgame\",\"body\":\"App
+  uses facial recognition to track missing children\\nhttps://t.co/r81QZZY1eH\\n#tech
+  #news #technology #AI #BigData… https://t.co/suDxtfek4M\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"Rich
+  Kubat\",\"body\":\"RT @gp_pulipaka: Uncovering Criminal Networks From Crime Locations.
+  #BigData #DeepLearning #MachineLearning #DataScience #AI \\nhttps://t.co/…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"Patrick_Roubinet\",\"body\":\"RT
+  @mapr: How can you easily put together a #datascience team? Guest blogger @Ronald_vanLoon
+  gives some tips: https://t.co/hdOoznygYt https…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png\"},{\"name\":\"zenblockgame\",\"body\":\"Google
+  Maps update adds traffic prediction\\n#AI #BigData #IoT #MachineLearning #tech #ArtificialIntelligence…
+  https://t.co/UchtAB5dfJ\",\"avatar\":\"https://pbs.twimg.com/profile_images/837855537525993473/pmkOLfbN_normal.jpg\"},{\"name\":\"Bhaskar
+  Reddy\",\"body\":\"RT @gp_pulipaka: #PyBoost: A Parallelized Python implementation.
+  #BigData #MachineLearning #DataScience #AI #Python #C\\nhttps://t.co/iRHsoJ7…\",\"avatar\":\"https://pbs.twimg.com/profile_images/877212393524174848/z2J2-evN_normal.jpg\"},{\"name\":\"Mercurio_AI\",\"body\":\"RT
+  @gp_pulipaka: Uncovering Criminal Networks From Crime Locations. #BigData #DeepLearning
+  #MachineLearning #DataScience #AI \\nhttps://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/865907497609068544/uhMNihqJ_normal.jpg\"},{\"name\":\"Bhaskar
+  Reddy\",\"body\":\"RT @gp_pulipaka: Machine Learning Translation and the Google
+  Translate Algorithm. #BigData #MachineLearning #DataScience #AI \\nhttps://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/877212393524174848/z2J2-evN_normal.jpg\"},{\"name\":\"Mercurio_AI\",\"body\":\"RT
+  @gp_pulipaka: The Rise of Messaging and Death of Apps. #BigData #MachineLearning
+  #DataScience #AI #Chatbots\\nhttps://t.co/re4YffraOn http…\",\"avatar\":\"https://pbs.twimg.com/profile_images/865907497609068544/uhMNihqJ_normal.jpg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1501652365}\n\n"
+changeMood: "data: {\"image\":\"/Icon_Emotion_happy.svg\",\"id\":\"changeMood\",\"updatedAt\":1501674366}\n\n"
+stock: "data: {\"points\":\"[{\\\"x\\\":1,\\\"y\\\":3.69},{\\\"x\\\":2,\\\"y\\\":3.68},{\\\"x\\\":3,\\\"y\\\":3.64},{\\\"x\\\":4,\\\"y\\\":3.63},{\\\"x\\\":5,\\\"y\\\":3.59},{\\\"x\\\":6,\\\"y\\\":3.51},{\\\"x\\\":7,\\\"y\\\":3.5},{\\\"x\\\":8,\\\"y\\\":3.44},{\\\"x\\\":9,\\\"y\\\":3.45},{\\\"x\\\":10,\\\"y\\\":3.44},{\\\"x\\\":11,\\\"y\\\":3.45},{\\\"x\\\":12,\\\"y\\\":3.44},{\\\"x\\\":13,\\\"y\\\":3.43},{\\\"x\\\":14,\\\"y\\\":3.45},{\\\"x\\\":15,\\\"y\\\":3.41},{\\\"x\\\":16,\\\"y\\\":3.45},{\\\"x\\\":17,\\\"y\\\":3.45},{\\\"x\\\":18,\\\"y\\\":3.46},{\\\"x\\\":19,\\\"y\\\":3.47},{\\\"x\\\":20,\\\"y\\\":3.5},{\\\"x\\\":21,\\\"y\\\":3.51},{\\\"x\\\":22,\\\"y\\\":3.53},{\\\"x\\\":23,\\\"y\\\":3.53},{\\\"x\\\":24,\\\"y\\\":3.51},{\\\"x\\\":25,\\\"y\\\":3.49},{\\\"x\\\":26,\\\"y\\\":3.48},{\\\"x\\\":27,\\\"y\\\":3.49},{\\\"x\\\":28,\\\"y\\\":3.49},{\\\"x\\\":29,\\\"y\\\":3.49},{\\\"x\\\":30,\\\"y\\\":3.51}]\",\"id\":\"stock\",\"updatedAt\":1501674366}\n\n"
